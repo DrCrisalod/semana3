@@ -1,11 +1,11 @@
 <a name="top"></a>
 # Semana 3 ☕
 
-## Table of Contents
+## Tabla de contenido
 
   * [ControldelFlujo](#item1)
-  * [Strings](#Strings)
-  * [priv](#priv)
+  * [Strings](#item2)
+  * [Tarea semana 3](#item3)
   
 
  </br>
@@ -14,6 +14,7 @@
 
 </br>
 <a name="item1"></a>
+
 ## Control del Flujo
 
 Trabajando ejercicios de las sentencias condicionales if y switch.
@@ -39,7 +40,9 @@ al crearse e inicializarse no pueden cambiar su valor.
 Es porque son inmutables que pueden ser compartidas por varias referencias.
 
 
+## Tarea Semana 3
 
+Tareas para reforzar el contenido visto en clase
 
 
 
